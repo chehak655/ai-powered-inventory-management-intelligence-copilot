@@ -2,17 +2,6 @@
 
 > **Multi-tenant AI-powered inventory management, machine learning, demand forecasting, and decision intelligence.**
 
-[![Python 3.11](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![React 18](https://img.shields.io/badge/React-18.3-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![MySQL 9.2](https://img.shields.io/badge/MySQL-9.2-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.5.2-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-2.1.2-EB5424?style=flat&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/)
-[![Tests Passing](https://img.shields.io/badge/Tests-106%20Passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://docs.pytest.org/)
-
 ---
 
 ## 📋 Table of Contents
