@@ -1,0 +1,78 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+ENV*/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# TypeScript / Build cache
+tsconfig.tsbuildinfo
+.vite/
+
+# Node & Frontend dependencies/build
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Environment secrets and local configurations
+.env
+.env.*
+*.env
+*.env.*
+!.env.example
+!**/.env.example
+
+# Tenant Storage, Datasets, and Local Model Binaries
+storage/
+backend/storage/
+backend/test_storage/
+test_storage/
+*.joblib
+*.pkl
+*.h5
+*.model
+*.onnx
+
+# Databases & local test dumps
+*.sqlite
+*.sqlite3
+*.db
+backend/test.db
+*.sql
+*.dump
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE and OS specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+.antigravity/
