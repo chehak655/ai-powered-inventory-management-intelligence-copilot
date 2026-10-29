@@ -382,25 +382,6 @@ Where:
 
 ---
 
-## 14. Roadmap & Contributing
-
-### Planned Enhancements
-- [ ] Automated supplier purchase order generation and email dispatch.
-- [ ] Webhook alerts for critical stockout thresholds via Slack and Microsoft Teams.
-- [ ] Integration with ERP platforms (SAP, NetSuite, Shopify, QuickBooks).
-- [ ] Multi-echelon inventory optimization across central warehouses and regional distribution hubs.
-
-### Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a descriptive feature branch (`git checkout -b feature/supply-chain-enhancement`).
-3. Commit your changes adhering to conventional commits (`git commit -m "feat: add multi-echelon safety stock calculation"`).
-4. Verify that all 106 backend tests and frontend build pass.
-5. Push to the branch (`git push origin feature/supply-chain-enhancement`).
-6. Open a detailed Pull Request.
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
